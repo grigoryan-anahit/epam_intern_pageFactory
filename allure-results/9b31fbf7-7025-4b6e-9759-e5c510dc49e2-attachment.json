@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": ".//a[contains(@class,\"top-navigation__item-link\") and normalize-space()=\"Our Work\"]"
+}

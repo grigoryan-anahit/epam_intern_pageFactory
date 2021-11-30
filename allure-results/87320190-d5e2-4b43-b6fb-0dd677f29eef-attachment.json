@@ -1,0 +1,4 @@
+{
+  "using": "css selector",
+  "value": "[class=\"detail-pages-filter__select-wrapper\"]:last-of-type"
+}
