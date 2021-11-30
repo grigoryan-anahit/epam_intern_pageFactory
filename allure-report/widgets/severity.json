@@ -1,0 +1,301 @@
+[ {
+  "uid" : "f25ffc51ca9a825c",
+  "name" : "Then Should see filters",
+  "time" : {
+    "start" : 1638272401059,
+    "stop" : 1638272406143,
+    "duration" : 5084
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "50d0611ed504f76",
+  "name" : "",
+  "time" : {
+    "start" : 1638272273113,
+    "stop" : 1638272273114,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3a34f2b8afe051ed",
+  "name" : "Given I open epam.com",
+  "time" : {
+    "start" : 1638272247955,
+    "stop" : 1638272269080,
+    "duration" : 21125
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "80200501be8ac96e",
+  "name" : "Given I click on the Search icon",
+  "time" : {
+    "start" : 1638272364134,
+    "stop" : 1638272366202,
+    "duration" : 2068
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "452071a6b76f68df",
+  "name" : "Given I go to 'Our Work' page",
+  "time" : {
+    "start" : 1638272373798,
+    "stop" : 1638272380718,
+    "duration" : 6920
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "89fc8968ec7ae918",
+  "name" : "",
+  "time" : {
+    "start" : 1638272358334,
+    "stop" : 1638272358334,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ccb33ff77516f28c",
+  "name" : "When Page title should be 'EPAM | Enterprise Software Development, Design & Consulting'",
+  "time" : {
+    "start" : 1638272269080,
+    "stop" : 1638272272110,
+    "duration" : 3030
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d3086fb9d82ab8ee",
+  "name" : "",
+  "time" : {
+    "start" : 1638272406143,
+    "stop" : 1638272406143,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d6c9c4bc9a8298a8",
+  "name" : "Then Each menu item \"0\" should change color to \"rgba(118,205,216,1)\"",
+  "time" : {
+    "start" : 1638272279410,
+    "stop" : 1638272287517,
+    "duration" : 8107
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "451efb750ffc288b",
+  "name" : "Then Each menu item \"2\" should change color to \"rgba(118,205,216,1)\"",
+  "time" : {
+    "start" : 1638272308002,
+    "stop" : 1638272316115,
+    "duration" : 8113
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e178fc228f22eb5b",
+  "name" : "Given I open epam.com",
+  "time" : {
+    "start" : 1638272358338,
+    "stop" : 1638272364133,
+    "duration" : 5795
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7e892c88e3b1b6a9",
+  "name" : "",
+  "time" : {
+    "start" : 1638272368082,
+    "stop" : 1638272368082,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "231580046bd1b842",
+  "name" : "Then Each menu item \"1\" should change color to \"rgba(123,187,198,1)\"",
+  "time" : {
+    "start" : 1638272294020,
+    "stop" : 1638272302126,
+    "duration" : 8106
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "97a7006c60709b6e",
+  "name" : "Then Each menu item \"3\" should change color to \"rgba(123,187,198,1)\"",
+  "time" : {
+    "start" : 1638272322277,
+    "stop" : 1638272330395,
+    "duration" : 8118
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5c58f43331f47823",
+  "name" : "Given I open epam.com",
+  "time" : {
+    "start" : 1638272344397,
+    "stop" : 1638272350107,
+    "duration" : 5710
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9b3613abbb827629",
+  "name" : "Given I move mouse to navigation menu \"0\" items",
+  "time" : {
+    "start" : 1638272279315,
+    "stop" : 1638272279410,
+    "duration" : 95
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e86129c6d2cb9e71",
+  "name" : "Given I move mouse to navigation menu \"3\" items",
+  "time" : {
+    "start" : 1638272322213,
+    "stop" : 1638272322277,
+    "duration" : 64
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "32a273aba6df8214",
+  "name" : "Given I move mouse to navigation menu \"5\" items",
+  "time" : {
+    "start" : 1638272350107,
+    "stop" : 1638272350234,
+    "duration" : 127
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c069928286f5c32f",
+  "name" : "Then I wait 1 seconds",
+  "time" : {
+    "start" : 1638272272110,
+    "stop" : 1638272273113,
+    "duration" : 1003
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "807e4994a0f1adac",
+  "name" : "Given I move mouse to navigation menu \"1\" items",
+  "time" : {
+    "start" : 1638272293967,
+    "stop" : 1638272294020,
+    "duration" : 53
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "255523fd6dee630b",
+  "name" : "Then Page title should be 'Explore our Work | EPAM Customer Stories, Brochures & Accelerators'",
+  "time" : {
+    "start" : 1638272380718,
+    "stop" : 1638272380728,
+    "duration" : 10
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3574501d17dd3b11",
+  "name" : "Then Each menu item \"5\" should change color to \"rgba(118,205,216,1)\"",
+  "time" : {
+    "start" : 1638272350234,
+    "stop" : 1638272358334,
+    "duration" : 8100
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "20e283afe471ef8d",
+  "name" : "And Should see search results",
+  "time" : {
+    "start" : 1638272368058,
+    "stop" : 1638272368082,
+    "duration" : 24
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1d8d9101f95bb2e2",
+  "name" : "Given I open epam.com",
+  "time" : {
+    "start" : 1638272368087,
+    "stop" : 1638272373798,
+    "duration" : 5711
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9cd81ff5300e9f1a",
+  "name" : "Given I move mouse to navigation menu \"4\" items",
+  "time" : {
+    "start" : 1638272336175,
+    "stop" : 1638272336291,
+    "duration" : 116
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "edacca716e28bd1b",
+  "name" : "When I fill 'Filter By' fields",
+  "time" : {
+    "start" : 1638272380728,
+    "stop" : 1638272401058,
+    "duration" : 20330
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "94a0d34eb14e0d74",
+  "name" : "Given I move mouse to navigation menu \"2\" items",
+  "time" : {
+    "start" : 1638272307892,
+    "stop" : 1638272308002,
+    "duration" : 110
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6d65fd16680bd7d7",
+  "name" : "Then Each menu item \"4\" should change color to \"rgba(118,205,216,1)\"",
+  "time" : {
+    "start" : 1638272336291,
+    "stop" : 1638272344393,
+    "duration" : 8102
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "733a21a115f135a5",
+  "name" : "Then Should open search field",
+  "time" : {
+    "start" : 1638272366203,
+    "stop" : 1638272366232,
+    "duration" : 29
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3afeefb880c191ca",
+  "name" : "When I set the searching word and click search icon",
+  "time" : {
+    "start" : 1638272366233,
+    "stop" : 1638272368058,
+    "duration" : 1825
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

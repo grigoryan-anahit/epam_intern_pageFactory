@@ -1,0 +1,82 @@
+{
+  "uid" : "d3086fb9d82ab8ee",
+  "name" : "",
+  "fullName" : "Epam page: 'Our Work' page.",
+  "historyId" : "2293e1d4fabf5ec9f34f46cac33fc63",
+  "time" : {
+    "start" : 1638272406143,
+    "stop" : 1638272406143,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Epam page: 'Our Work' page"
+  }, {
+    "name" : "testClass",
+    "value" : "Epam page: 'Our Work' page"
+  }, {
+    "name" : "testMethod",
+    "value" : ""
+  }, {
+    "name" : "package",
+    "value" : "Epam page: 'Our Work' page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-96.0.4664.45"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "ee60c3441de616bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638272368087,
+        "stop" : 1638272368087,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "1d20564987ebf703",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638271963778,
+        "stop" : 1638271963778,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "c9455db1c2efb04",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638271925257,
+        "stop" : 1638271925257,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d3086fb9d82ab8ee.json",
+  "parameterValues" : [ "chrome-96.0.4664.45" ]
+}

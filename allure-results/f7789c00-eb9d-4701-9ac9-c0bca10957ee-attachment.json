@@ -1,4 +1,0 @@
-{
-  "using": "xpath",
-  "value": ".//div[@class=\"multi-select-dropdown\"]/ul[@class=\"multi-select-column\"]"
-}

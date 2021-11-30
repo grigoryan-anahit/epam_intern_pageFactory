@@ -1,4 +1,0 @@
-{
-  "using": "xpath",
-  "value": ".//*[@id=\"wrapper\"]/div[2]/div[1]/header/div/ul/li[3]/div/button "
-}

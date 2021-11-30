@@ -1,0 +1,66 @@
+{
+  "uid" : "255523fd6dee630b",
+  "name" : "Then Page title should be 'Explore our Work | EPAM Customer Stories, Brochures & Accelerators'",
+  "fullName" : "Epam page: 'Our Work' page.Then Page title should be 'Explore our Work | EPAM Customer Stories, Brochures & Accelerators'",
+  "historyId" : "ef37eb4387636550b0a980e90f408b10",
+  "time" : {
+    "start" : 1638272380718,
+    "stop" : 1638272380728,
+    "duration" : 10
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Epam page: 'Our Work' page"
+  }, {
+    "name" : "testClass",
+    "value" : "Epam page: 'Our Work' page"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then Page title should be 'Explore our Work | EPAM Customer Stories, Brochures & Accelerators'"
+  }, {
+    "name" : "package",
+    "value" : "Epam page: 'Our Work' page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-96.0.4664.45"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "df7c757f3268355",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638271938358,
+        "stop" : 1638271938375,
+        "duration" : 17
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "255523fd6dee630b.json",
+  "parameterValues" : [ "chrome-96.0.4664.45" ]
+}

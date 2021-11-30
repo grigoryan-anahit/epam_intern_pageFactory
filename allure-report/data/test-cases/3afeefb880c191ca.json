@@ -1,0 +1,66 @@
+{
+  "uid" : "3afeefb880c191ca",
+  "name" : "When I set the searching word and click search icon",
+  "fullName" : "Epam page: Search.When I set the searching word and click search icon",
+  "historyId" : "88de09bd6bcc06bb00af88635c11530b",
+  "time" : {
+    "start" : 1638272366233,
+    "stop" : 1638272368058,
+    "duration" : 1825
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Epam page: Search"
+  }, {
+    "name" : "testClass",
+    "value" : "Epam page: Search"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I set the searching word and click search icon"
+  }, {
+    "name" : "package",
+    "value" : "Epam page: Search"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-96.0.4664.45"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "f7cfa672dbdf3b3e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638271923023,
+        "stop" : 1638271925226,
+        "duration" : 2203
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3afeefb880c191ca.json",
+  "parameterValues" : [ "chrome-96.0.4664.45" ]
+}

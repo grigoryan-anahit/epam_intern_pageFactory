@@ -1,0 +1,48 @@
+{
+  "total" : 4,
+  "items" : [ {
+    "uid" : "a768bbfb512d877024f90bfa0342f1b4",
+    "name" : "Epam page: Navigation menu hover",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 14,
+      "unknown" : 0,
+      "total" : 14
+    }
+  }, {
+    "uid" : "d1b47c732b9d3757618c5676e0ddadfe",
+    "name" : "Epam page: Search",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 6,
+      "unknown" : 0,
+      "total" : 6
+    }
+  }, {
+    "uid" : "dd7c3d687f7e81d9c0050a83fe2c75ca",
+    "name" : "Epam page: 'Our Work' page",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 6,
+      "unknown" : 0,
+      "total" : 6
+    }
+  }, {
+    "uid" : "5098b6b3e809d9e28ed28ce882ce6eec",
+    "name" : "Epam page: open Epam page check title",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 4,
+      "unknown" : 0,
+      "total" : 4
+    }
+  } ]
+}
