@@ -4,7 +4,7 @@ const pageProvider=require('../pageobjects/pageFactory');
 
 
 Given(/^I go to 'Our Work' page$/, async ()=>{
-    await pageProvider('OurWorkPage').menuItemOurWork.waitForExist({timeout:5000});
+    await pageProvider('OurWorkPage').menuItemOurWork.waitForDisplayed();
     await pageProvider('OurWorkPage').menuItemOurWork.click();
     await browser.pause(5000);
 });

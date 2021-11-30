@@ -21,11 +21,12 @@ Then(/^I wait 1 seconds$/, async () => {
 ////////////
 Given(/^I move mouse to navigation menu "([^"]*)" items$/,async (number)=>{
      await pageProvider('HomePage').menuItem(number);
+     await browser.pause(8000);
 });
 
 Then(/^Each menu item "([^"]*)" should change color to "([^"]*)"$/, async (number,color)=>{
     await pageProvider('HomePage').menuItem(number);
-    await browser.pause(3000);
+    await browser.pause(8000);
 
     await expect(await pageProvider('HomePage').menuItemHover(number)).toEqual(color);
 });

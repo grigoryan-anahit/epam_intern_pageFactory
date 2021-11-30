@@ -10,7 +10,6 @@ class HomePage extends Page {
     }
     async menuItemHover (num) {
         const el=await this.topNavigationUl.$$('.top-navigation__item-link')[num];
-        await browser.pause(5000);
         return (await el.getCSSProperty('color')).value;
     }
 
