@@ -4,9 +4,11 @@ const pageProvider=require('../pageobjects/pageFactory');
 
 
 Given(/^I go to 'Our Work' page$/, async ()=>{
-    await pageProvider('OurWorkPage').menuItemOurWork.waitForDisplayed();
-    await pageProvider('OurWorkPage').menuItemOurWork.click();
+
     await browser.pause(5000);
+
+     await pageProvider('OurWorkPage').menuItemOurWork.click();
+     await browser.pause(5000);
 });
     Then (/^Page title should be 'Explore our Work | EPAM Customer Stories, Brochures & Accelerators'$/,async ()=>{
     await expect(await browser).toHaveTitle('Explore our Work | EPAM Customer Stories, Brochures & Accelerators')

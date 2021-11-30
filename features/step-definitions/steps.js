@@ -19,15 +19,15 @@ Then(/^I wait 1 seconds$/, async () => {
     await browser.pause(1000);
 });
 ////////////
-Given(/^I move mouse to navigation menu "([^"]*)" items$/,async (number)=>{
-     await pageProvider('HomePage').menuItem(number);
-     await browser.pause(8000);
-});
-
-Then(/^Each menu item "([^"]*)" should change color to "([^"]*)"$/, async (number,color)=>{
-    await pageProvider('HomePage').menuItem(number);
-    await browser.pause(8000);
-
-    await expect(await pageProvider('HomePage').menuItemHover(number)).toEqual(color);
-});
+// Given(/^I move mouse to navigation menu "([^"]*)" items$/,async (number)=>{
+//      await pageProvider('HomePage').menuItem(number);
+//      await browser.pause(8000);
+// });
+//
+// Then(/^Each menu item "([^"]*)" should change color to "([^"]*)"$/, async (number,color)=>{
+//     await pageProvider('HomePage').menuItem(number);
+//     await browser.pause(8000);
+//
+//     await expect(await pageProvider('HomePage').menuItemHover(number)).toEqual(color);
+// });
 

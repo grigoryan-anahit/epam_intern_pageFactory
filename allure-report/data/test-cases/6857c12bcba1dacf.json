@@ -1,0 +1,162 @@
+{
+  "uid" : "6857c12bcba1dacf",
+  "name" : "Then Should open search field",
+  "fullName" : "Epam page: Search.Then Should open search field",
+  "historyId" : "886b8f04a151b530f4fc7b2da508d146",
+  "time" : {
+    "start" : 1638301642709,
+    "stop" : 1638301642763,
+    "duration" : 54
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Epam page: Search"
+  }, {
+    "name" : "testClass",
+    "value" : "Epam page: Search"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then Should open search field"
+  }, {
+    "name" : "package",
+    "value" : "Epam page: Search"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-96.0.4664.45"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "50c412b810944fe4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638301519411,
+        "stop" : 1638301519453,
+        "duration" : 42
+      }
+    }, {
+      "uid" : "d1a6fae0687cb5e4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638301116284,
+        "stop" : 1638301116340,
+        "duration" : 56
+      }
+    }, {
+      "uid" : "a4aa15813905af05",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638301040512,
+        "stop" : 1638301040577,
+        "duration" : 65
+      }
+    }, {
+      "uid" : "6b742108036f359d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638300879110,
+        "stop" : 1638300879154,
+        "duration" : 44
+      }
+    }, {
+      "uid" : "80bbb326fe78bbae",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638300807902,
+        "stop" : 1638300807956,
+        "duration" : 54
+      }
+    }, {
+      "uid" : "a9b13387b73f4a5f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638300705939,
+        "stop" : 1638300705993,
+        "duration" : 54
+      }
+    }, {
+      "uid" : "c0f6afd07538d198",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638300605882,
+        "stop" : 1638300605941,
+        "duration" : 59
+      }
+    }, {
+      "uid" : "39c78be7f2326627",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638300536857,
+        "stop" : 1638300536912,
+        "duration" : 55
+      }
+    }, {
+      "uid" : "689317411dcc6a3a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638299564173,
+        "stop" : 1638299564227,
+        "duration" : 54
+      }
+    }, {
+      "uid" : "cc0dd123d1b4f552",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638298984574,
+        "stop" : 1638298984630,
+        "duration" : 56
+      }
+    }, {
+      "uid" : "3661de32801ec41d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638298869783,
+        "stop" : 1638298869836,
+        "duration" : 53
+      }
+    }, {
+      "uid" : "c82d66cee28c935c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638272366203,
+        "stop" : 1638272366232,
+        "duration" : 29
+      }
+    }, {
+      "uid" : "4c1d8c17306fb9c8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638271922983,
+        "stop" : 1638271923023,
+        "duration" : 40
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6857c12bcba1dacf.json",
+  "parameterValues" : [ "chrome-96.0.4664.45" ]
+}

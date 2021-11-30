@@ -1,0 +1,92 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1638299796323' stop='1638299803762'>
+    <name>Epam page: open Epam page check title</name>
+    <title>Epam page: open Epam page check title</title>
+    <test-cases>
+        <test-case start='1638299796323' status='passed' stop='1638299796325'>
+            <name></name>
+            <title></title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-96.0.4664.45'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1638299796326' status='broken' stop='1638299803760'>
+            <name>Given I open epam.com</name>
+            <title>Given I open epam.com</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-96.0.4664.45'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>RequestError: read ECONNRESET</message>
+                <stack-trace>RequestError: read ECONNRESET
+                    at ClientRequest.&lt;anonymous> (C:\Users\Anahit_Grigoryan1\CUCUMBER_Projects\Cucumber_Epam_PageFactory\node_modules\got\dist\source\core\index.js:962:111)
+                    at Object.onceWrapper (events.js:520:26)
+                    at ClientRequest.emit (events.js:412:35)
+                    at ClientRequest.emit (domain.js:475:12)
+                    at ClientRequest.origin.emit (C:\Users\Anahit_Grigoryan1\CUCUMBER_Projects\Cucumber_Epam_PageFactory\node_modules\@szmarczak\http-timer\dist\source\index.js:43:20)
+                    at Socket.socketErrorListener (_http_client.js:475:9)
+                    at Socket.emit (events.js:400:28)
+                    at Socket.emit (domain.js:475:12)
+                    at emitErrorNT (internal/streams/destroy.js:106:8)
+                    at emitErrorCloseNT (internal/streams/destroy.js:74:3)
+                    at TCP.onStreamRead (internal/stream_base_commons.js:209:20)</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1638299803760' status='pending' stop='1638299803761'>
+            <name>When Page title should be 'EPAM | Enterprise Software Development, Design &amp; Consulting'</name>
+            <title>When Page title should be 'EPAM | Enterprise Software Development, Design &amp; Consulting'</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-96.0.4664.45'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1638299803761' status='pending' stop='1638299803761'>
+            <name>Then I wait 1 seconds</name>
+            <title>Then I wait 1 seconds</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-96.0.4664.45'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1638299803761' status='passed' stop='1638299803761'>
+            <name></name>
+            <title></title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-96.0.4664.45'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

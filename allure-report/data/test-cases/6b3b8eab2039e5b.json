@@ -1,0 +1,56 @@
+{
+  "uid" : "6b3b8eab2039e5b",
+  "name" : "When I set the searching word and click search icon",
+  "fullName" : "Epam page: Search.When I set the searching word and click search icon",
+  "historyId" : "88de09bd6bcc06bb00af88635c11530b",
+  "time" : {
+    "start" : 1638300705993,
+    "stop" : 1638300708140,
+    "duration" : 2147
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Epam page: Search"
+  }, {
+    "name" : "testClass",
+    "value" : "Epam page: Search"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I set the searching word and click search icon"
+  }, {
+    "name" : "package",
+    "value" : "Epam page: Search"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-96.0.4664.45"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6b3b8eab2039e5b.json",
+  "parameterValues" : [ "chrome-96.0.4664.45" ]
+}

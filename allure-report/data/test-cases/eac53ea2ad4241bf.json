@@ -1,0 +1,56 @@
+{
+  "uid" : "eac53ea2ad4241bf",
+  "name" : "Given I click on the Search icon",
+  "fullName" : "Epam page: Search.Given I click on the Search icon",
+  "historyId" : "f2077c0a46cbb516d020ed1abce84c08",
+  "time" : {
+    "start" : 1638271920891,
+    "stop" : 1638271922983,
+    "duration" : 2092
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Epam page: Search"
+  }, {
+    "name" : "testClass",
+    "value" : "Epam page: Search"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given I click on the Search icon"
+  }, {
+    "name" : "package",
+    "value" : "Epam page: Search"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-96.0.4664.45"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "eac53ea2ad4241bf.json",
+  "parameterValues" : [ "chrome-96.0.4664.45" ]
+}

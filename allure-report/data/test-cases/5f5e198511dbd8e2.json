@@ -1,0 +1,146 @@
+{
+  "uid" : "5f5e198511dbd8e2",
+  "name" : "Given I open epam.com",
+  "fullName" : "Epam page: Navigation menu hover.Given I open epam.com",
+  "historyId" : "79af0170e434b65e95dba69505d147a4",
+  "time" : {
+    "start" : 1638272344397,
+    "stop" : 1638272350107,
+    "duration" : 5710
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Epam page: Navigation menu hover"
+  }, {
+    "name" : "testClass",
+    "value" : "Epam page: Navigation menu hover"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given I open epam.com"
+  }, {
+    "name" : "package",
+    "value" : "Epam page: Navigation menu hover"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-96.0.4664.45"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "2f6180213ee1355f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638272330400,
+        "stop" : 1638272336175,
+        "duration" : 5775
+      }
+    }, {
+      "uid" : "9dc3f30bca7a0aa0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638272316121,
+        "stop" : 1638272322213,
+        "duration" : 6092
+      }
+    }, {
+      "uid" : "ec917b615cfdfc21",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638272302130,
+        "stop" : 1638272307892,
+        "duration" : 5762
+      }
+    }, {
+      "uid" : "53436f3a397add22",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638272287522,
+        "stop" : 1638272293967,
+        "duration" : 6445
+      }
+    }, {
+      "uid" : "6b119ed25a785dbe",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638272273122,
+        "stop" : 1638272279315,
+        "duration" : 6193
+      }
+    }, {
+      "uid" : "e05289a367073ffc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638271900858,
+        "stop" : 1638271906657,
+        "duration" : 5799
+      }
+    }, {
+      "uid" : "734775f3f3079832",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638271886553,
+        "stop" : 1638271892676,
+        "duration" : 6123
+      }
+    }, {
+      "uid" : "47a08e0dba9ce8b4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638271872407,
+        "stop" : 1638271878336,
+        "duration" : 5929
+      }
+    }, {
+      "uid" : "1cba693c2eaa204e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638271858243,
+        "stop" : 1638271864231,
+        "duration" : 5988
+      }
+    }, {
+      "uid" : "e6999b48802f51d2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638271844159,
+        "stop" : 1638271850071,
+        "duration" : 5912
+      }
+    }, {
+      "uid" : "fabd4a8a0d147f5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638271829790,
+        "stop" : 1638271835967,
+        "duration" : 6177
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5f5e198511dbd8e2.json",
+  "parameterValues" : [ "chrome-96.0.4664.45" ]
+}

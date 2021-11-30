@@ -1,0 +1,56 @@
+{
+  "uid" : "d3a0e440826f71df",
+  "name" : "",
+  "fullName" : "Epam page: open Epam page check title.",
+  "historyId" : "41f4d140f2c5723e1f21f6ed65a46e80",
+  "time" : {
+    "start" : 1638272247954,
+    "stop" : 1638272247955,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Epam page: open Epam page check title"
+  }, {
+    "name" : "testClass",
+    "value" : "Epam page: open Epam page check title"
+  }, {
+    "name" : "testMethod",
+    "value" : ""
+  }, {
+    "name" : "package",
+    "value" : "Epam page: open Epam page check title"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-96.0.4664.45"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d3a0e440826f71df.json",
+  "parameterValues" : [ "chrome-96.0.4664.45" ]
+}

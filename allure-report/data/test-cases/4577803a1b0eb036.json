@@ -1,0 +1,170 @@
+{
+  "uid" : "4577803a1b0eb036",
+  "name" : "Given I go to 'Our Work' page",
+  "fullName" : "Epam page: 'Our Work' page.Given I go to 'Our Work' page",
+  "historyId" : "b4796090515701f2eceea34a0fc3ab90",
+  "time" : {
+    "start" : 1638301652006,
+    "stop" : 1638301664344,
+    "duration" : 12338
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Epam page: 'Our Work' page"
+  }, {
+    "name" : "testClass",
+    "value" : "Epam page: 'Our Work' page"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given I go to 'Our Work' page"
+  }, {
+    "name" : "package",
+    "value" : "Epam page: 'Our Work' page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-96.0.4664.45"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "1096bd5907f70e54",
+      "status" : "broken",
+      "statusDetails" : "element not interactable",
+      "time" : {
+        "start" : 1638301529086,
+        "stop" : 1638301534260,
+        "duration" : 5174
+      }
+    }, {
+      "uid" : "3ec83093d21d908d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638301125502,
+        "stop" : 1638301137708,
+        "duration" : 12206
+      }
+    }, {
+      "uid" : "7f312d6b44955cdf",
+      "status" : "broken",
+      "statusDetails" : "element not interactable",
+      "time" : {
+        "start" : 1638301049553,
+        "stop" : 1638301049783,
+        "duration" : 230
+      }
+    }, {
+      "uid" : "6d835bddeae662ed",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638300888077,
+        "stop" : 1638300894765,
+        "duration" : 6688
+      }
+    }, {
+      "uid" : "b87aafb3f295581c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638300818916,
+        "stop" : 1638300825445,
+        "duration" : 6529
+      }
+    }, {
+      "uid" : "f0680dabf2e8a65",
+      "status" : "broken",
+      "statusDetails" : "element not interactable",
+      "time" : {
+        "start" : 1638300714773,
+        "stop" : 1638300721481,
+        "duration" : 6708
+      }
+    }, {
+      "uid" : "7f4389f52450f815",
+      "status" : "broken",
+      "statusDetails" : "element not interactable",
+      "time" : {
+        "start" : 1638300615440,
+        "stop" : 1638300622480,
+        "duration" : 7040
+      }
+    }, {
+      "uid" : "c7a8028e87a00478",
+      "status" : "broken",
+      "statusDetails" : "element not interactable",
+      "time" : {
+        "start" : 1638300546017,
+        "stop" : 1638300548383,
+        "duration" : 2366
+      }
+    }, {
+      "uid" : "560915ac084d2308",
+      "status" : "broken",
+      "statusDetails" : "element not interactable",
+      "time" : {
+        "start" : 1638299573336,
+        "stop" : 1638299576811,
+        "duration" : 3475
+      }
+    }, {
+      "uid" : "f6ea181b326b2efd",
+      "status" : "broken",
+      "statusDetails" : "element not interactable",
+      "time" : {
+        "start" : 1638298995868,
+        "stop" : 1638298997308,
+        "duration" : 1440
+      }
+    }, {
+      "uid" : "8835e10f1d6f1dea",
+      "status" : "broken",
+      "statusDetails" : "TypeError: pageProvider(...).topNavigationUl is not a function",
+      "time" : {
+        "start" : 1638298879135,
+        "stop" : 1638298881613,
+        "duration" : 2478
+      }
+    }, {
+      "uid" : "d2c443b44933a1a6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638272373798,
+        "stop" : 1638272380718,
+        "duration" : 6920
+      }
+    }, {
+      "uid" : "97f269513dae2007",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638271931461,
+        "stop" : 1638271938358,
+        "duration" : 6897
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4577803a1b0eb036.json",
+  "parameterValues" : [ "chrome-96.0.4664.45" ]
+}

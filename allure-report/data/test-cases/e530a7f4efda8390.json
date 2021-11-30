@@ -1,0 +1,56 @@
+{
+  "uid" : "e530a7f4efda8390",
+  "name" : "Then Each menu item \"3\" should change color to \"rgba(123,187,198,1)\"",
+  "fullName" : "Epam page: Navigation menu hover.Then Each menu item \"3\" should change color to \"rgba(123,187,198,1)\"",
+  "historyId" : "42122aafe9f5398df38054e5d78d1124",
+  "time" : {
+    "start" : 1638271878459,
+    "stop" : 1638271886550,
+    "duration" : 8091
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Epam page: Navigation menu hover"
+  }, {
+    "name" : "testClass",
+    "value" : "Epam page: Navigation menu hover"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then Each menu item \"3\" should change color to \"rgba(123,187,198,1)\""
+  }, {
+    "name" : "package",
+    "value" : "Epam page: Navigation menu hover"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-96.0.4664.45"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e530a7f4efda8390.json",
+  "parameterValues" : [ "chrome-96.0.4664.45" ]
+}

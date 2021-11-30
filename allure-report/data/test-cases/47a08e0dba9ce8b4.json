@@ -1,0 +1,56 @@
+{
+  "uid" : "47a08e0dba9ce8b4",
+  "name" : "Given I open epam.com",
+  "fullName" : "Epam page: Navigation menu hover.Given I open epam.com",
+  "historyId" : "79af0170e434b65e95dba69505d147a4",
+  "time" : {
+    "start" : 1638271872407,
+    "stop" : 1638271878336,
+    "duration" : 5929
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Epam page: Navigation menu hover"
+  }, {
+    "name" : "testClass",
+    "value" : "Epam page: Navigation menu hover"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given I open epam.com"
+  }, {
+    "name" : "package",
+    "value" : "Epam page: Navigation menu hover"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-96.0.4664.45"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "47a08e0dba9ce8b4.json",
+  "parameterValues" : [ "chrome-96.0.4664.45" ]
+}

@@ -2,60 +2,8 @@
   "uid" : "b1a8273437954620fa374b796ffaacdd",
   "name" : "behaviors",
   "children" : [ {
-    "name" : "Given I open epam.com",
-    "uid" : "3a34f2b8afe051ed",
-    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
-    "status" : "passed",
-    "time" : {
-      "start" : 1638272247955,
-      "stop" : 1638272269080,
-      "duration" : 21125
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "parameters" : [ "chrome-96.0.4664.45" ]
-  }, {
-    "name" : "When Page title should be 'EPAM | Enterprise Software Development, Design & Consulting'",
-    "uid" : "ccb33ff77516f28c",
-    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
-    "status" : "passed",
-    "time" : {
-      "start" : 1638272269080,
-      "stop" : 1638272272110,
-      "duration" : 3030
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "parameters" : [ "chrome-96.0.4664.45" ]
-  }, {
-    "name" : "Then I wait 1 seconds",
-    "uid" : "c069928286f5c32f",
-    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
-    "status" : "passed",
-    "time" : {
-      "start" : 1638272272110,
-      "stop" : 1638272273113,
-      "duration" : 1003
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "parameters" : [ "chrome-96.0.4664.45" ]
-  }, {
-    "name" : "",
-    "uid" : "50d0611ed504f76",
-    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
-    "status" : "passed",
-    "time" : {
-      "start" : 1638272273113,
-      "stop" : 1638272273114,
-      "duration" : 1
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "parameters" : [ "chrome-96.0.4664.45" ]
-  }, {
     "name" : "Given I move mouse to navigation menu \"0\" items",
-    "uid" : "9b3613abbb827629",
+    "uid" : "2826961956656eb5",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
@@ -68,7 +16,7 @@
     "parameters" : [ "chrome-96.0.4664.45" ]
   }, {
     "name" : "Then Each menu item \"0\" should change color to \"rgba(118,205,216,1)\"",
-    "uid" : "d6c9c4bc9a8298a8",
+    "uid" : "4e5e0340a0f94a3b",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
@@ -81,7 +29,7 @@
     "parameters" : [ "chrome-96.0.4664.45" ]
   }, {
     "name" : "Given I move mouse to navigation menu \"1\" items",
-    "uid" : "807e4994a0f1adac",
+    "uid" : "ae3e9600273a92c6",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
@@ -94,7 +42,7 @@
     "parameters" : [ "chrome-96.0.4664.45" ]
   }, {
     "name" : "Then Each menu item \"1\" should change color to \"rgba(123,187,198,1)\"",
-    "uid" : "231580046bd1b842",
+    "uid" : "5daba770f7941708",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
@@ -107,7 +55,7 @@
     "parameters" : [ "chrome-96.0.4664.45" ]
   }, {
     "name" : "Given I move mouse to navigation menu \"2\" items",
-    "uid" : "94a0d34eb14e0d74",
+    "uid" : "50a56c3e6a990459",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
@@ -120,7 +68,7 @@
     "parameters" : [ "chrome-96.0.4664.45" ]
   }, {
     "name" : "Then Each menu item \"2\" should change color to \"rgba(118,205,216,1)\"",
-    "uid" : "451efb750ffc288b",
+    "uid" : "25da433f4b13d0c4",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
@@ -133,7 +81,7 @@
     "parameters" : [ "chrome-96.0.4664.45" ]
   }, {
     "name" : "Given I move mouse to navigation menu \"3\" items",
-    "uid" : "e86129c6d2cb9e71",
+    "uid" : "f2474852723a69ed",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
@@ -146,7 +94,7 @@
     "parameters" : [ "chrome-96.0.4664.45" ]
   }, {
     "name" : "Then Each menu item \"3\" should change color to \"rgba(123,187,198,1)\"",
-    "uid" : "97a7006c60709b6e",
+    "uid" : "317d155aab422f06",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
@@ -159,7 +107,7 @@
     "parameters" : [ "chrome-96.0.4664.45" ]
   }, {
     "name" : "Given I move mouse to navigation menu \"4\" items",
-    "uid" : "9cd81ff5300e9f1a",
+    "uid" : "704a3548401a629e",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
@@ -172,7 +120,7 @@
     "parameters" : [ "chrome-96.0.4664.45" ]
   }, {
     "name" : "Then Each menu item \"4\" should change color to \"rgba(118,205,216,1)\"",
-    "uid" : "6d65fd16680bd7d7",
+    "uid" : "87858facf3e5b3de",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
@@ -185,7 +133,7 @@
     "parameters" : [ "chrome-96.0.4664.45" ]
   }, {
     "name" : "Given I open epam.com",
-    "uid" : "5c58f43331f47823",
+    "uid" : "5f5e198511dbd8e2",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
@@ -198,7 +146,7 @@
     "parameters" : [ "chrome-96.0.4664.45" ]
   }, {
     "name" : "Given I move mouse to navigation menu \"5\" items",
-    "uid" : "32a273aba6df8214",
+    "uid" : "5728b4d37f60c46d",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
@@ -211,7 +159,7 @@
     "parameters" : [ "chrome-96.0.4664.45" ]
   }, {
     "name" : "Then Each menu item \"5\" should change color to \"rgba(118,205,216,1)\"",
-    "uid" : "3574501d17dd3b11",
+    "uid" : "e34fd1355665830a",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
@@ -224,7 +172,7 @@
     "parameters" : [ "chrome-96.0.4664.45" ]
   }, {
     "name" : "",
-    "uid" : "89fc8968ec7ae918",
+    "uid" : "f2ba8d0f32c7ee35",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
@@ -237,77 +185,129 @@
     "parameters" : [ "chrome-96.0.4664.45" ]
   }, {
     "name" : "Given I open epam.com",
-    "uid" : "e178fc228f22eb5b",
+    "uid" : "566ab750a62b88a6",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1638272358338,
-      "stop" : 1638272364133,
-      "duration" : 5795
+      "start" : 1638301619583,
+      "stop" : 1638301629639,
+      "duration" : 10056
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ "chrome-96.0.4664.45" ]
   }, {
-    "name" : "Given I click on the Search icon",
-    "uid" : "80200501be8ac96e",
+    "name" : "When Page title should be 'EPAM | Enterprise Software Development, Design & Consulting'",
+    "uid" : "a0ab233e3a366056",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1638272364134,
-      "stop" : 1638272366202,
-      "duration" : 2068
+      "start" : 1638301629640,
+      "stop" : 1638301632672,
+      "duration" : 3032
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ "chrome-96.0.4664.45" ]
   }, {
-    "name" : "Then Should open search field",
-    "uid" : "733a21a115f135a5",
+    "name" : "Then I wait 1 seconds",
+    "uid" : "2d008fbb0d101170",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1638272366203,
-      "stop" : 1638272366232,
-      "duration" : 29
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "parameters" : [ "chrome-96.0.4664.45" ]
-  }, {
-    "name" : "When I set the searching word and click search icon",
-    "uid" : "3afeefb880c191ca",
-    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
-    "status" : "passed",
-    "time" : {
-      "start" : 1638272366233,
-      "stop" : 1638272368058,
-      "duration" : 1825
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "parameters" : [ "chrome-96.0.4664.45" ]
-  }, {
-    "name" : "And Should see search results",
-    "uid" : "20e283afe471ef8d",
-    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
-    "status" : "passed",
-    "time" : {
-      "start" : 1638272368058,
-      "stop" : 1638272368082,
-      "duration" : 24
+      "start" : 1638301632672,
+      "stop" : 1638301633688,
+      "duration" : 1016
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ "chrome-96.0.4664.45" ]
   }, {
     "name" : "",
-    "uid" : "7e892c88e3b1b6a9",
+    "uid" : "46b2b77ae667777f",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1638272368082,
-      "stop" : 1638272368082,
+      "start" : 1638301633688,
+      "stop" : 1638301633689,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-96.0.4664.45" ]
+  }, {
+    "name" : "Given I open epam.com",
+    "uid" : "15e439479cc42742",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1638301633708,
+      "stop" : 1638301640565,
+      "duration" : 6857
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-96.0.4664.45" ]
+  }, {
+    "name" : "Given I click on the Search icon",
+    "uid" : "cd46dbcdf25c8a60",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1638301640565,
+      "stop" : 1638301642709,
+      "duration" : 2144
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-96.0.4664.45" ]
+  }, {
+    "name" : "Then Should open search field",
+    "uid" : "6857c12bcba1dacf",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1638301642709,
+      "stop" : 1638301642763,
+      "duration" : 54
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-96.0.4664.45" ]
+  }, {
+    "name" : "When I set the searching word and click search icon",
+    "uid" : "7df5cbb3c44a6d15",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1638301642763,
+      "stop" : 1638301645198,
+      "duration" : 2435
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-96.0.4664.45" ]
+  }, {
+    "name" : "And Should see search results",
+    "uid" : "6ee06c517f2c1fc8",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1638301645198,
+      "stop" : 1638301645252,
+      "duration" : 54
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-96.0.4664.45" ]
+  }, {
+    "name" : "",
+    "uid" : "767c23f310c08cf7",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1638301645252,
+      "stop" : 1638301645252,
       "duration" : 0
     },
     "flaky" : false,
@@ -315,77 +315,77 @@
     "parameters" : [ "chrome-96.0.4664.45" ]
   }, {
     "name" : "Given I open epam.com",
-    "uid" : "1d8d9101f95bb2e2",
+    "uid" : "baf850df5bd646ca",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1638272368087,
-      "stop" : 1638272373798,
-      "duration" : 5711
+      "start" : 1638301645265,
+      "stop" : 1638301652006,
+      "duration" : 6741
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ "chrome-96.0.4664.45" ]
   }, {
     "name" : "Given I go to 'Our Work' page",
-    "uid" : "452071a6b76f68df",
+    "uid" : "4577803a1b0eb036",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1638272373798,
-      "stop" : 1638272380718,
-      "duration" : 6920
+      "start" : 1638301652006,
+      "stop" : 1638301664344,
+      "duration" : 12338
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ "chrome-96.0.4664.45" ]
   }, {
     "name" : "Then Page title should be 'Explore our Work | EPAM Customer Stories, Brochures & Accelerators'",
-    "uid" : "255523fd6dee630b",
+    "uid" : "e434b2a357247461",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1638272380718,
-      "stop" : 1638272380728,
-      "duration" : 10
+      "start" : 1638301664344,
+      "stop" : 1638301664357,
+      "duration" : 13
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ "chrome-96.0.4664.45" ]
   }, {
     "name" : "When I fill 'Filter By' fields",
-    "uid" : "edacca716e28bd1b",
+    "uid" : "7297819f0f3c6931",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1638272380728,
-      "stop" : 1638272401058,
-      "duration" : 20330
+      "start" : 1638301664357,
+      "stop" : 1638301684959,
+      "duration" : 20602
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ "chrome-96.0.4664.45" ]
   }, {
     "name" : "Then Should see filters",
-    "uid" : "f25ffc51ca9a825c",
+    "uid" : "2d555f6ec0f211c8",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1638272401059,
-      "stop" : 1638272406143,
-      "duration" : 5084
+      "start" : 1638301684959,
+      "stop" : 1638301690061,
+      "duration" : 5102
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ "chrome-96.0.4664.45" ]
   }, {
     "name" : "",
-    "uid" : "d3086fb9d82ab8ee",
+    "uid" : "c81de4ae459c503c",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1638272406143,
-      "stop" : 1638272406143,
+      "start" : 1638301690061,
+      "stop" : 1638301690061,
       "duration" : 0
     },
     "flaky" : false,
