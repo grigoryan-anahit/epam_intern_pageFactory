@@ -9,18 +9,18 @@ Feature: Epam page
     When  Page title should be 'EPAM | Enterprise Software Development, Design & Consulting'
     Then  I wait 1 seconds
 
-#  Scenario Outline:Navigation menu hover
-#    Given  I move mouse to navigation menu "<item>" items
-#    Then   Each menu item "<item>" should change color to "<color>"
-#
-#    Examples:
-#      | item | color               |
-#      | 0    | rgba(118,205,216,1) |
-#      | 1    |rgba(123,187,198,1)  |
-#      | 2    | rgba(118,205,216,1) |
-#      | 3    |rgba(123,187,198,1)  |
-#      | 4    | rgba(118,205,216,1) |
-#      | 5    | rgba(118,205,216,1) |
+  Scenario Outline:Navigation menu hover
+    Given  I move mouse to navigation menu "<item>" items
+    Then   Each menu item "<item>" should change color to "<color>"
+
+    Examples:
+      | item | color               |
+      | 0    | rgba(118,205,216,1) |
+      | 1    |rgba(123,187,198,1)  |
+      | 2    | rgba(118,205,216,1) |
+      | 3    |rgba(123,187,198,1)  |
+      | 4    | rgba(118,205,216,1) |
+      | 5    | rgba(118,205,216,1) |
 
   Scenario: Search
     Given I click on the Search icon
