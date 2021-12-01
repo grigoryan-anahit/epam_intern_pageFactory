@@ -1,0 +1,162 @@
+{
+  "uid" : "15f7248c4a194207",
+  "name" : "Then Page title should be 'Explore our Work | EPAM Customer Stories, Brochures & Accelerators'",
+  "fullName" : "Epam page: 'Our Work' page.Then Page title should be 'Explore our Work | EPAM Customer Stories, Brochures & Accelerators'",
+  "historyId" : "ef37eb4387636550b0a980e90f408b10",
+  "time" : {
+    "start" : 1638344657127,
+    "stop" : 1638344657140,
+    "duration" : 13
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Epam page: 'Our Work' page"
+  }, {
+    "name" : "testClass",
+    "value" : "Epam page: 'Our Work' page"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then Page title should be 'Explore our Work | EPAM Customer Stories, Brochures & Accelerators'"
+  }, {
+    "name" : "package",
+    "value" : "Epam page: 'Our Work' page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-96.0.4664.45"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "8f5661345c5170df",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638343158874,
+        "stop" : 1638343158884,
+        "duration" : 10
+      }
+    }, {
+      "uid" : "b62e32d6df0dc8c5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638301664344,
+        "stop" : 1638301664357,
+        "duration" : 13
+      }
+    }, {
+      "uid" : "a4ed918c2f934bb1",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1638301534260,
+        "stop" : 1638301534260,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "aeec4c0adc63cab2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638301137708,
+        "stop" : 1638301137721,
+        "duration" : 13
+      }
+    }, {
+      "uid" : "5a2b994e388c3ee8",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1638301049783,
+        "stop" : 1638301049783,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "dd72f2c08b487957",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638300894765,
+        "stop" : 1638300894785,
+        "duration" : 20
+      }
+    }, {
+      "uid" : "c6caf93e04eb6ad2",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1638300622480,
+        "stop" : 1638300622480,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "7da795f88d484df7",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1638300548383,
+        "stop" : 1638300548384,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "78184ee488b7a4ed",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1638299576811,
+        "stop" : 1638299576812,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "fbcfead687f2a3cd",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1638298997308,
+        "stop" : 1638298997309,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "6795b31c13ce43ea",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1638298881613,
+        "stop" : 1638298881614,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "3cf89765293b1935",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638272380718,
+        "stop" : 1638272380728,
+        "duration" : 10
+      }
+    }, {
+      "uid" : "eba0471badc565fe",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638271938358,
+        "stop" : 1638271938375,
+        "duration" : 17
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "15f7248c4a194207.json",
+  "parameterValues" : [ "chrome-96.0.4664.45" ]
+}

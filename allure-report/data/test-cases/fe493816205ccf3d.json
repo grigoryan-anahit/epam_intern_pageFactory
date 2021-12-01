@@ -1,0 +1,66 @@
+{
+  "uid" : "fe493816205ccf3d",
+  "name" : "Given I move mouse to navigation menu \"2\" items",
+  "fullName" : "Epam page: Navigation menu hover.Given I move mouse to navigation menu \"2\" items",
+  "historyId" : "7999db0bf2895b24feede05b8021e5cd",
+  "time" : {
+    "start" : 1638272307892,
+    "stop" : 1638272308002,
+    "duration" : 110
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Epam page: Navigation menu hover"
+  }, {
+    "name" : "testClass",
+    "value" : "Epam page: Navigation menu hover"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given I move mouse to navigation menu \"2\" items"
+  }, {
+    "name" : "package",
+    "value" : "Epam page: Navigation menu hover"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-96.0.4664.45"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "a9247dc5fcdbe2a9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638271864231,
+        "stop" : 1638271864298,
+        "duration" : 67
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fe493816205ccf3d.json",
+  "parameterValues" : [ "chrome-96.0.4664.45" ]
+}

@@ -1,0 +1,56 @@
+{
+  "uid" : "4f3afaf54a396612",
+  "name" : "Given I go to 'Our Work' page",
+  "fullName" : "Epam page: 'Our Work' page.Given I go to 'Our Work' page",
+  "historyId" : "b4796090515701f2eceea34a0fc3ab90",
+  "time" : {
+    "start" : 1638301125502,
+    "stop" : 1638301137708,
+    "duration" : 12206
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Epam page: 'Our Work' page"
+  }, {
+    "name" : "testClass",
+    "value" : "Epam page: 'Our Work' page"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given I go to 'Our Work' page"
+  }, {
+    "name" : "package",
+    "value" : "Epam page: 'Our Work' page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-96.0.4664.45"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4f3afaf54a396612.json",
+  "parameterValues" : [ "chrome-96.0.4664.45" ]
+}

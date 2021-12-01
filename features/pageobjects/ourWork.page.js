@@ -5,7 +5,8 @@ const Page = require('./page');
 class OurWorkPage extends Page {
 
     get menuItemOurWork() {
-        return $('.//a[contains(@class,"top-navigation__item-link") and normalize-space()="Our Work"]');
+        //return $('.//a[contains(@class,"top-navigation__item-link") and normalize-space()="Our Work"]');
+        return $$('[class="top-navigation__item-text"]')[2];
     }
 
     get topNavigationUl() {

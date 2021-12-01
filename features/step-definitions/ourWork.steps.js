@@ -1,5 +1,4 @@
 const {Given,When,Then} = require("@wdio/cucumber-framework");
-//const OurWorkPage = require("../pageobjects/ourWork.page");
 const pageProvider=require('../pageobjects/pageFactory');
 
 

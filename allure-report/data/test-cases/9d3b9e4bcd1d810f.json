@@ -1,0 +1,186 @@
+{
+  "uid" : "9d3b9e4bcd1d810f",
+  "name" : "When Page title should be 'EPAM | Enterprise Software Development, Design & Consulting'",
+  "fullName" : "Epam page: open Epam page check title.When Page title should be 'EPAM | Enterprise Software Development, Design & Consulting'",
+  "historyId" : "42903df8d3ef232fc88128d5263147ac",
+  "time" : {
+    "start" : 1638344623617,
+    "stop" : 1638344626643,
+    "duration" : 3026
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Epam page: open Epam page check title"
+  }, {
+    "name" : "testClass",
+    "value" : "Epam page: open Epam page check title"
+  }, {
+    "name" : "testMethod",
+    "value" : "When Page title should be 'EPAM | Enterprise Software Development, Design & Consulting'"
+  }, {
+    "name" : "package",
+    "value" : "Epam page: open Epam page check title"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-96.0.4664.45"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "8b1c9cd727519519",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638343122564,
+        "stop" : 1638343125590,
+        "duration" : 3026
+      }
+    }, {
+      "uid" : "a1577d7b8f777971",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638301629640,
+        "stop" : 1638301632672,
+        "duration" : 3032
+      }
+    }, {
+      "uid" : "a28e6b60bafbfc5a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638301506761,
+        "stop" : 1638301509788,
+        "duration" : 3027
+      }
+    }, {
+      "uid" : "92ca5c17697fed0c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638301103800,
+        "stop" : 1638301106840,
+        "duration" : 3040
+      }
+    }, {
+      "uid" : "b8d4c1f447d4293e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638301027492,
+        "stop" : 1638301030519,
+        "duration" : 3027
+      }
+    }, {
+      "uid" : "8cce3309adf9f004",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638300866060,
+        "stop" : 1638300869088,
+        "duration" : 3028
+      }
+    }, {
+      "uid" : "46b66d243a6f306d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638300795215,
+        "stop" : 1638300798247,
+        "duration" : 3032
+      }
+    }, {
+      "uid" : "b370652bcc683185",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638300693186,
+        "stop" : 1638300696219,
+        "duration" : 3033
+      }
+    }, {
+      "uid" : "e5f22da74fd86bd1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638300592810,
+        "stop" : 1638300595847,
+        "duration" : 3037
+      }
+    }, {
+      "uid" : "766747d8277fde24",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638300523945,
+        "stop" : 1638300526983,
+        "duration" : 3038
+      }
+    }, {
+      "uid" : "8c96f50fa7d5c630",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1638299803760,
+        "stop" : 1638299803761,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "6838820b475d3623",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638299551139,
+        "stop" : 1638299554175,
+        "duration" : 3036
+      }
+    }, {
+      "uid" : "fbf4c2ad2b836bb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638298971837,
+        "stop" : 1638298974868,
+        "duration" : 3031
+      }
+    }, {
+      "uid" : "33d672ff97f3df0e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638298857122,
+        "stop" : 1638298860155,
+        "duration" : 3033
+      }
+    }, {
+      "uid" : "4cfe3fc82f8235a7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638272269080,
+        "stop" : 1638272272110,
+        "duration" : 3030
+      }
+    }, {
+      "uid" : "8f77dbfdffca921a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638271825748,
+        "stop" : 1638271828765,
+        "duration" : 3017
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9d3b9e4bcd1d810f.json",
+  "parameterValues" : [ "chrome-96.0.4664.45" ]
+}

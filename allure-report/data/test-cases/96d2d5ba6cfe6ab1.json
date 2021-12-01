@@ -1,0 +1,178 @@
+{
+  "uid" : "96d2d5ba6cfe6ab1",
+  "name" : "And Should see search results",
+  "fullName" : "Epam page: Search.And Should see search results",
+  "historyId" : "b6a9ddf06a7b5fd43b5ee9e96a1cea08",
+  "time" : {
+    "start" : 1638344638247,
+    "stop" : 1638344638279,
+    "duration" : 32
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Epam page: Search"
+  }, {
+    "name" : "testClass",
+    "value" : "Epam page: Search"
+  }, {
+    "name" : "testMethod",
+    "value" : "And Should see search results"
+  }, {
+    "name" : "package",
+    "value" : "Epam page: Search"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-96.0.4664.45"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "ee4ecff6398c2281",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638343138743,
+        "stop" : 1638343138771,
+        "duration" : 28
+      }
+    }, {
+      "uid" : "5ad40dcc7bf58c18",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638301645198,
+        "stop" : 1638301645252,
+        "duration" : 54
+      }
+    }, {
+      "uid" : "7d33fe83fdccab1f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638301521983,
+        "stop" : 1638301522015,
+        "duration" : 32
+      }
+    }, {
+      "uid" : "2e2d58a62458eac9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638301118728,
+        "stop" : 1638301118775,
+        "duration" : 47
+      }
+    }, {
+      "uid" : "2e6ee638ff89ed5a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638301043050,
+        "stop" : 1638301043101,
+        "duration" : 51
+      }
+    }, {
+      "uid" : "55d1f3a039dda93c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638300881697,
+        "stop" : 1638300881726,
+        "duration" : 29
+      }
+    }, {
+      "uid" : "92baf09a1f1160a1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638300812548,
+        "stop" : 1638300812592,
+        "duration" : 44
+      }
+    }, {
+      "uid" : "bc95f9d136856015",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638300708140,
+        "stop" : 1638300708189,
+        "duration" : 49
+      }
+    }, {
+      "uid" : "2d1ed554c0326e11",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638300608357,
+        "stop" : 1638300608405,
+        "duration" : 48
+      }
+    }, {
+      "uid" : "5e5055ced56add47",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638300539441,
+        "stop" : 1638300539485,
+        "duration" : 44
+      }
+    }, {
+      "uid" : "d2c1cee8af97052e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638299567353,
+        "stop" : 1638299567402,
+        "duration" : 49
+      }
+    }, {
+      "uid" : "a9a5933f72b574bc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638298987551,
+        "stop" : 1638298987595,
+        "duration" : 44
+      }
+    }, {
+      "uid" : "ee9da072137663d4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638298872455,
+        "stop" : 1638298872502,
+        "duration" : 47
+      }
+    }, {
+      "uid" : "a91ffb7aa238efbf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638272368058,
+        "stop" : 1638272368082,
+        "duration" : 24
+      }
+    }, {
+      "uid" : "3d5c50ca3e222b1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638271925226,
+        "stop" : 1638271925252,
+        "duration" : 26
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "96d2d5ba6cfe6ab1.json",
+  "parameterValues" : [ "chrome-96.0.4664.45" ]
+}

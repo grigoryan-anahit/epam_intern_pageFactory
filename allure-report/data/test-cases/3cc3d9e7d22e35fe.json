@@ -1,0 +1,56 @@
+{
+  "uid" : "3cc3d9e7d22e35fe",
+  "name" : "Then I wait 1 seconds",
+  "fullName" : "Epam page: open Epam page check title.Then I wait 1 seconds",
+  "historyId" : "dc91090b05aaf7bf4cd39a99096d4f3f",
+  "time" : {
+    "start" : 1638300595847,
+    "stop" : 1638300596852,
+    "duration" : 1005
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Epam page: open Epam page check title"
+  }, {
+    "name" : "testClass",
+    "value" : "Epam page: open Epam page check title"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I wait 1 seconds"
+  }, {
+    "name" : "package",
+    "value" : "Epam page: open Epam page check title"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-96.0.4664.45"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3cc3d9e7d22e35fe.json",
+  "parameterValues" : [ "chrome-96.0.4664.45" ]
+}
